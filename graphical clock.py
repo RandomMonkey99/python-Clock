@@ -1,3 +1,5 @@
+#-------Please follow me-------
+
 from tkinter import *
 from tkinter.ttk import *
  
@@ -12,11 +14,11 @@ def time():
     label.after(1000, time)
  
  
-label = Label(tk, font=('Comic Sans MS', 40, 'bold'),
-            background='black',
+label = Label(tk, font=('Comic Sans MS', 40, 'bold'), #you can change the font (https://github.com/RandomMonkey99/python-Clock/blob/main/disponible%20tkinter%20fonts.md) the text size and the stile(bold, italic, underline)
+            background='black',#you can change background and foreground
             foreground='green')
  
 label.pack(anchor='s')
 time()
  
-mainloop()
+tk.mainloop()
