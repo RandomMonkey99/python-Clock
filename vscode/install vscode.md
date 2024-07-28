@@ -1,0 +1,2 @@
+  -----Install with the following link-----  
+-https://code.visualstudio.com/Download
