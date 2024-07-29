@@ -1,6 +1,6 @@
-#python clock
-#graphical and textual
-#all rights reserved
-#RandomAnimals .co®
+# Python clock 
+### graphical and textual  
+### all rights reserved  
+### **RandomAnimals .co®**  
 
 
