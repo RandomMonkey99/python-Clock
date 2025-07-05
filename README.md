@@ -1,6 +1,3 @@
-# Python clock 
-### graphical and textual  
-### all rights reserved  
-### **RandomAnimals .co®**  
+#Python Clock
 
-
+Simple Graphical and textual implementation of a python clock
